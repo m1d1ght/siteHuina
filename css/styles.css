@@ -1,6 +1,6 @@
 body{
     margin: 0;
-        background-image: url('/images/Задник.jpg');
+        background-image: url('/images/Задник2.0.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -25,8 +25,9 @@ body{
     display: flex;
     align-items: center;
     img{
-        width: 8rem;
+        width:8rem;
         height:3rem;
+        margin: left 100%;
     }
 }
 .menu{
